@@ -6,7 +6,7 @@ PRODUCT_PACKAGES += \
     FakeStore \
     FDroid \
     FDroidPrivilegedExtension \
-    GmsCore \
+    GmsCorePrebuilt \
     GsfProxy \
     microg-a5k \
     MozillaNlpBackend \
