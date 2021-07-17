@@ -7,7 +7,7 @@ PRODUCT_PACKAGES += \
     FDroidPrivilegedExtension \
     GmsCorePrebuilt \
     GsfProxy \
-    microg-a5k \
+    microg-a5k.xml \
     MozillaNlpBackend \
     NominatimNlpBackend \
     Focus
