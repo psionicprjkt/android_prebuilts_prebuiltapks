@@ -1,6 +1,7 @@
 # Product priv-app
 PRODUCT_PACKAGES += \
     additional_repos \
+    AuroraStore \
     FakeStore \
     FDroid \
     FDroidPrivilegedExtension \

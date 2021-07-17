@@ -4,8 +4,4 @@
         <permission name="android.permission.DELETE_PACKAGES"/>
         <permission name="android.permission.INSTALL_PACKAGES"/>
     </privapp-permissions>
-
-    <privapp-permissions package="com.aurora.store">
-        <permission name="android.permission.INSTALL_PACKAGES"/>
-    </privapp-permissions>
 </permissions>
