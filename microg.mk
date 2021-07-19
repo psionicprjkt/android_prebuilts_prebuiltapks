@@ -10,5 +10,5 @@ PRODUCT_PACKAGES += \
     microg-a5k.xml \
     MozillaNlpBackend \
     NominatimNlpBackend \
-    Focus
+    ViaBrowser
 
