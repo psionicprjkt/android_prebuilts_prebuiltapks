@@ -2,6 +2,7 @@
 PRODUCT_PACKAGES += \
     additional_repos \
     AuroraStore \
+    bromite-webview \
     FakeStore \
     FDroid \
     FDroidPrivilegedExtension \
