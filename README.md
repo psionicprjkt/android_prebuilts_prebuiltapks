@@ -18,6 +18,5 @@ The included APKs are:
    * GmsCore: the main component of microG, a FOSS reimplementation of the Google Play Services (requires GsfProxy and FakeStore for full functionality)
    * GsfProxy: a GmsCore proxy for legacy GCM compatibility
    * FakeStore: an empty package that mocks the existence of the Google Play Store
-* Via Browser - Fast & Light [Via Github](https://github.com/tuyafeng/Via)
 * BromiteSystemWebView to replace regular AOSP webview
 
