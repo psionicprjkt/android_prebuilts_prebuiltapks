@@ -44,12 +44,6 @@
     <allow-unthrottled-location package="org.microg.nlp.backend.ichnaea" />
     <allow-unthrottled-location package="org.microg.nlp.backend.apple" />
 
-    <!-- Apps that have ability to run as system user. -->
-    <system-user-whitelisted-app package="com.google.android.gms" />
-    <system-user-whitelisted-app package="com.google.android.gsf" />
-    <system-user-whitelisted-app package="org.microg.gms.droidguard" />
-    <system-user-whitelisted-app package="org.fdroid.fdroid.privileged" />
-
     <!-- Third party apps allowed to access the entire private API  -->
     <hidden-api-whitelisted-app package="com.google.android.gms" />
 
