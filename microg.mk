@@ -10,5 +10,6 @@ PRODUCT_PACKAGES += \
     GsfProxy \
     microg-a5k.xml \
     MozillaNlpBackend \
-    NominatimNlpBackend
+    NominatimNlpBackend \
+    GoogleContactsSyncAdapter
 
